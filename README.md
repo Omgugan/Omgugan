@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Omgugan pursuing my 4th year of B.Tech Mechanical Engineering at VIT, Vellore
+- 👀 I’m interested in Operations Management, Operations Research and any field where I can learn more.
+- 🌱 I’m currently learning VBA with Excel, Data Analytics, Operations Management and Primavera P6.
+- 💞️ I’m looking to collaborate on multiple projects during my final year.
+- 📫 I can be found on Linkedin at https://www.linkedin.com/in/omguganme
